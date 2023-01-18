@@ -52,6 +52,8 @@ int main()
 
     printf("Sfarsitul jocului !\n");
 
+    getchar();
+
     return 0;
 }
 
