@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666713023 source:c:\users\mecsx\desktop\joc x si 0\x si 0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+
